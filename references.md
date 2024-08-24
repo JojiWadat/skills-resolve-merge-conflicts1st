@@ -1,3 +1,2 @@
-# References
 
-* octocat 1 😈
+This is the conflicted message adding in the main branch.
